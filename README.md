@@ -1,8 +1,6 @@
 # WebAR
 This project is WebAR Image Tracking, developed in Android Studio - Instant App, the original code is Java, some are kotlin.
 
-**But need someone to clean the code a bit to get a better version.
-
 ## Here I add few steps have been done.
 - Enable AR Core
 - Add Image Tracking Feature
